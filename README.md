@@ -10,10 +10,3 @@ The goal is to show the differences between simple, rule-based AI and modern gen
 - chat_comparison.py – GUI that allows side-by-side comparison of ELIZA vs LLM.  
 - Screenshots – Images showing the chat GUI and responses.
 
-## How to Run
-
-1. Make sure Python is installed.  
-2. Install required libraries: pip install transformers tkinter.  
-3. Run the GUI:  
-   ```bash
-   python chat_comparison.py
